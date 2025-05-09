@@ -22,8 +22,8 @@ Este é um projeto frontend feito com **React + Vite**, que exibe uma lista de d
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
+git clone https://github.com/b-oliveira/dragon-app.git
+cd dragon-app
 ```
 
 2. **Instale as dependências:**
