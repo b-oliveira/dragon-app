@@ -18,9 +18,10 @@ Este é um projeto frontend feito com **React + Vite**, que exibe uma lista de d
 
 ![Desktop Form](./public/image-register.png)
 
-![Mobile List](./public/image-mobile-list.png)
-
-![Mobile List with Sidebar Open](./public/image-mobile-list2.png)
+<p>
+  <img src="./public/image-mobile-list.png" alt="Mobile List" height="650" />
+  <img src="./public/image-mobile-list2.png" alt="Mobile List with Sidebar Open" height="650" />
+</p>
 
 ## ⚙️ Rodando localmente
 
