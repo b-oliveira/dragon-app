@@ -1,0 +1,25 @@
+.button-default {
+  width: 100%;
+  padding: 1rem;
+  background-color: #4f46e5;
+  border: none;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+.button-default:hover {
+  background-color: #6366f1;
+}
+
+.button-default:disabled {
+  background-color: #64748b;
+  cursor: not-allowed;
+}
+
+.button-default:hover:not(:disabled) {
+  background-color: #2563eb;
+}

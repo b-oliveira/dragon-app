@@ -1,0 +1,41 @@
+.sidebar {
+  width: 220px;
+  background-color: #111827;
+  color: white;
+  padding: 1rem;
+}
+
+.sidebar-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sidebar h2 {
+  font-size: 1.2rem;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar a {
+  display: block;
+  color: white;
+  padding: 0.5rem 0;
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 60%;
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.4);
+    background-color: #111827;
+  }
+}
