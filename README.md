@@ -10,6 +10,18 @@ Este é um projeto frontend feito com **React + Vite**, que exibe uma lista de d
 - [React Router](https://reactrouter.com/)
 - CSS puro + media queries
 
+## Prévia da Interface
+
+![Desktop List](./public/image-list.png)
+
+![Desktop List with Sidebar Open](./public/image-list2.png)
+
+![Desktop Form](./public/image-register.png)
+
+![Mobile List](./public/image-mobile-list.png)
+
+![Mobile List with Sidebar Open](./public/image-mobile-list2.png)
+
 ## ⚙️ Rodando localmente
 
 ### Pré-requisitos
